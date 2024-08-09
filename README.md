@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Zen profile views](https://u8views.com/api/v1/github/profiles/46526140/views/day-week-month-total-count.svg)](https://u8views.com/github/master-of-zen)
+
 My name is Max.
 
 I'm Python/Rust programmer interested in multimedia.
